@@ -3,6 +3,7 @@ Bash-Shell Script (Unix) Project
 This is a university project using Unix, dealing with writing commands from a set of requirements and operations on a set of files(Open Data File).
 
 Questions and Requirements:-
+
 You should use bash to develop a script for analyzing and partially automating the evaluation of these documents, which should meet the following requirements:
 
 •Your script should take exactly one command line parameter. This is either the file name of a submitted receipt (named txxxxx, the character string xxxxx
