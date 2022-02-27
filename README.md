@@ -38,10 +38,15 @@ Each test should end with a short success/failure message. At the end, please en
 Note: the diff command might be useful.
 
 •Your script must never abort or block indefinitely; any Error conditions must be caught by you and handled appropriately. Error messages from the commands you use should be suppressed.
+
 •The running time of all operations must be reasonable (< 10s); the plagiarism check may last thirty seconds.
+
 •Don't forget to provide return values for any form of termination.
+
 •Please avoid the multiple occurrence of similar or identical code blocks by using functions where necessary.
+
 •Please note clearly, comment descriptively and pay attention to orthographic and grammatical correctness.
+
 
 
 
