@@ -11,7 +11,7 @@ is not the s-number of the author but a random number) or one of the character s
 to reject a meaningful report.
 
 •If the argument is a filename, do a series of tests against that file
-executed and points awarded accordingly: ¨
+executed and points awarded accordingly: 
 
 1. Checking whether the shebang is in the first position in the first line. Is this the case, the receipt gets one point.
 
