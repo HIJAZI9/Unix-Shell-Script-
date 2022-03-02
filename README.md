@@ -13,8 +13,7 @@ to reject a meaningful report.
 •If the argument is a filename, do a series of tests against that file
 executed and points awarded accordingly: ¨
 
-1. Checking whether the shebang is in the first position in the first line. Is this the ¨
-case, the receipt gets one point.
+1. Checking whether the shebang is in the first position in the first line. Is this the case, the receipt gets one point.
 
 2. Determination of the percentage of those lines that contain a comment (in relation to the total number of lines). If it is 10% or more, you get
 the document a point.
