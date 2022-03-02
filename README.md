@@ -32,8 +32,11 @@ Each test should end with a short success/failure message. At the end, please en
 • If the argument is all, then the above tests should be run on all 89 files. The file names of all documents that do not achieve the full number of points should be output.
 
 •If the argument is stat, then it should be determined and output:
+
 – size and name of the smallest document,
+
 – size and name of the largest document,
+
 – the arithmetic mean of all document sizes.
 
 •If the argument is plag, then all test items should be compared in pairs, i.e. each with each other. All identical files must be listed by name.
