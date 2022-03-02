@@ -30,6 +30,7 @@ be compared in the bib.csv file). If there is a tie, the examinee gets a point.
 Each test should end with a short success/failure message. At the end, please enter the number of points achieved and the maximum number of points that can be achieved.
 
 • If the argument is all, then the above tests should be run on all 89 files. The file names of all documents that do not achieve the full number of points should be output.
+
 •If the argument is stat, then it should be determined and output:
 – size and name of the smallest document,
 – size and name of the largest document,
